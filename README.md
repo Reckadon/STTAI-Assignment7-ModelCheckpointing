@@ -75,13 +75,15 @@ This assignment aims to learn about text classification tasks for checkpoint cre
 > ![](./curves6.png)<br>
 > Curves for ReSuMe training on Dataset 2 (IMDB)
 
-> Tensorboard comparison (Final Evaluation)
-> ![](./tb1.png)
-> _Train Loss plot and comparison_
-> ![](./tb2.png)
-> _Validation Loss plot and comparison_
-> ![](./tb3.png)
-> _Validition Accuracy plot and comparison_
+> Tensorboard Integration (Final Evaluation)  
+![](./tbIntegration.png)   
+_You can see the tensorboard integration of the models metrics on colab_   
+> ![](./tb1.png)   
+> _Train Loss plot and comparison_   
+> ![](./tb2.png)   
+> _Validation Loss plot and comparison_   
+> ![](./tb3.png)   
+> _Validition Accuracy plot and comparison_   
 
 **Final Validation Accuracies**
 
