@@ -50,10 +50,10 @@ __Case 1: BoW__
 _Metrics while training on dataset 1_  
 ![](./metrics2.png)   
 _Metrics while training (using best trained model checkpoint) on dataset 2_<br><br>
-__Case 2: BERT__<br>
-![](./metrics3.png)
-_Metrics while training on dataset 1_
-![](./metrics4.png)
+__Case 2: BERT__ <br>
+![](./metrics3.png)<br>
+_Metrics while training on dataset 1_<br><br>
+![](./metrics4.png)<br>
 _Metrics while training (using best trained model checkpoint) on dataset 2_
 
 
@@ -63,7 +63,7 @@ __Case 1: BoW__
 _Confusion matrix for best model on dataset 1 Validation set_  
 ![](./cfm2.png)  
 _Confusion matrix for best model (from pretrained best checkpoint) on dataset 2 Validation set_<br><br>
-__Case 2: BERT__<br>
+__Case 2: BERT__ <br>
 ![](./cfm3.png)<br>
 _Confusion matrix for best model on dataset 1 Validation set_
 ![](./cfm4.png)<br>
@@ -77,7 +77,7 @@ __Case 1: BoW__
 Curves for training on Dataset 1  
 ![](./curves3.png)  
 Curves for ReSuMe training on Dataset 2 (IMDB)  <br><br>
-__Case 2: BERT__<br>
+__Case 2: BERT__ <br>
 ![](./curves5.png)<br>
 Curves for training on Dataset 1  
 ![](./curves6.png)<br>
