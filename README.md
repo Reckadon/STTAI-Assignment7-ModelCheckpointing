@@ -30,9 +30,11 @@ _Number of max features for vectorizer_
 ![batch size and epochs](./hyperparams2.png)   
 _Batch size and lr for dataset 1_   
 ![batchsize and epohcs](./hyperparams3.png)    
-_Batch size and lr with previous best model's checkpoint On IMDB (dataset 2)_  
-__Case 2: BERT__
+_Batch size and lr with previous best model's checkpoint On IMDB (dataset 2)_<br><br>
+> __Case 2: BERT__
+> <br>
 ![tokens BERT](./hyperparams4.png)
+> <br>
 _Batch Size for the tokenizer_
 ![batch size and epochs](./hyperparams5.png)
 ![](./hyperparams6.png)
@@ -47,8 +49,8 @@ __Case 1: BoW__
 ![](./metrics1.png)  
 _Metrics while training on dataset 1_  
 ![](./metrics2.png)   
-_Metrics while training (using best trained model checkpoint) on dataset 2_
-__Case 2: BERT__
+_Metrics while training (using best trained model checkpoint) on dataset 2_<br><br>
+__Case 2: BERT__<br>
 ![](./metrics3.png)
 _Metrics while training on dataset 1_
 ![](./metrics4.png)
@@ -60,11 +62,11 @@ __Case 1: BoW__
 ![](./cfm1.png)  
 _Confusion matrix for best model on dataset 1 Validation set_  
 ![](./cfm2.png)  
-_Confusion matrix for best model (from pretrained best checkpoint) on dataset 2 Validation set_  
-__Case 2: BERT__
-![](./cfm3.png)
-_Confusion matrix for best model on dataset 1 Validation set_  
-![](./cfm4.png)
+_Confusion matrix for best model (from pretrained best checkpoint) on dataset 2 Validation set_<br><br>
+__Case 2: BERT__<br>
+![](./cfm3.png)<br>
+_Confusion matrix for best model on dataset 1 Validation set_
+![](./cfm4.png)<br>
 _Confusion matrix for best model (from pretrained best checkpoint) on dataset 2 Validation set_  
 
 
@@ -74,11 +76,11 @@ __Case 1: BoW__
 ![](./curves1.png)    
 Curves for training on Dataset 1  
 ![](./curves3.png)  
-Curves for ReSuMe training on Dataset 2 (IMDB)  
-__Case 2: BERT__
-![](./curves5.png)
+Curves for ReSuMe training on Dataset 2 (IMDB)  <br><br>
+__Case 2: BERT__<br>
+![](./curves5.png)<br>
 Curves for training on Dataset 1  
-![](./curves6.png)
+![](./curves6.png)<br>
 Curves for ReSuMe training on Dataset 2 (IMDB)  
 
 > Tensorboard comparison
