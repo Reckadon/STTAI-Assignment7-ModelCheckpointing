@@ -13,7 +13,8 @@ This assignment aims to learn about text classification tasks for checkpoint cre
 
 ---
 
-### Code in [Notebook](./STTAI_Lab7.ipynb)
+## Repo link [here](https://github.com/Reckadon/STTAI-Assignment7-ModelCheckpointing)
+### Code in [Notebook](https://github.com/Reckadon/STTAI-Assignment7-ModelCheckpointing/blob/main/STTAI_Lab7.ipynb)
 
 ---
 
